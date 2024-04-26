@@ -1,0 +1,85 @@
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/bin/Debug/net6.0/appsettings.json
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/bin/Debug/net6.0/Shop.exe
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/bin/Debug/net6.0/Shop.deps.json
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/bin/Debug/net6.0/Shop.runtimeconfig.json
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/bin/Debug/net6.0/Shop.dll
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/bin/Debug/net6.0/Shop.pdb
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/Shop.csproj.AssemblyReference.cache
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/Shop.AssemblyInfoInputs.cache
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/Shop.AssemblyInfo.cs
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/Shop.csproj.CoreCompileInputs.cache
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/Shop.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/Shop.RazorAssemblyInfo.cache
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/Shop.RazorAssemblyInfo.cs
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets/msbuild.Shop.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets/msbuild.build.Shop.props
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Shop.props
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Shop.props
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/scopedcss/bundle/Shop.styles.css
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/Shop.dll
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/refint/Shop.dll
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/Shop.pdb
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/Shop.genruntimeconfig.cache
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/obj/Debug/net6.0/ref/Shop.dll
+C:/Users/HP/Desktop/Web Sitelerim/DenemeNew/Shop/bin/Debug/net6.0/Shop.staticwebassets.runtime.json
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/bin/Debug/net6.0/appsettings.Development.json
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/bin/Debug/net6.0/appsettings.json
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/bin/Debug/net6.0/Shop.staticwebassets.runtime.json
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/bin/Debug/net6.0/Shop
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/bin/Debug/net6.0/Shop.deps.json
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/bin/Debug/net6.0/Shop.runtimeconfig.json
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/bin/Debug/net6.0/Shop.dll
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/bin/Debug/net6.0/Shop.pdb
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/Shop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/Shop.AssemblyInfoInputs.cache
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/Shop.AssemblyInfo.cs
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/Shop.csproj.CoreCompileInputs.cache
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/Shop.MvcApplicationPartsAssemblyInfo.cache
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/Shop.RazorAssemblyInfo.cache
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/Shop.RazorAssemblyInfo.cs
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets.build.json
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets.development.json
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets/msbuild.Shop.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets/msbuild.build.Shop.props
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Shop.props
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Shop.props
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/scopedcss/bundle/Shop.styles.css
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/Shop.dll
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/refint/Shop.dll
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/Shop.pdb
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/Shop.genruntimeconfig.cache
+/Users/omerapaydin/Desktop/Back-end/DenemeNew/Shop/obj/Debug/net6.0/ref/Shop.dll
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/bin/Debug/net6.0/appsettings.Development.json
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/bin/Debug/net6.0/appsettings.json
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/bin/Debug/net6.0/Shop.staticwebassets.runtime.json
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/bin/Debug/net6.0/Shop
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/bin/Debug/net6.0/Shop.deps.json
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/bin/Debug/net6.0/Shop.runtimeconfig.json
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/bin/Debug/net6.0/Shop.dll
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/bin/Debug/net6.0/Shop.pdb
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/Shop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/Shop.AssemblyInfoInputs.cache
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/Shop.AssemblyInfo.cs
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/Shop.csproj.CoreCompileInputs.cache
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/Shop.MvcApplicationPartsAssemblyInfo.cache
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/Shop.RazorAssemblyInfo.cache
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/Shop.RazorAssemblyInfo.cs
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets.build.json
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets.development.json
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets/msbuild.Shop.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets/msbuild.build.Shop.props
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Shop.props
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Shop.props
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/scopedcss/bundle/Shop.styles.css
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/Shop.dll
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/refint/Shop.dll
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/Shop.pdb
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/Shop.genruntimeconfig.cache
+/Users/omerapaydin/Desktop/Back-end/Udemy/DenemeNew/Shop/obj/Debug/net6.0/ref/Shop.dll

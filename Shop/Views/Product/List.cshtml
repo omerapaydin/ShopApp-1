@@ -1,0 +1,12 @@
+@model ProductViewModel
+<div class="row">
+    @foreach(Product prd in Model.Products)
+    {
+        <div class="col-md-4">
+              <partial name="_Product" model="prd">
+        </div>
+    }
+</div>
+@section Categories{
+    <partial name="_Categories">
+}

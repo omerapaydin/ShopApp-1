@@ -1,0 +1,11 @@
+    @model ProductViewModel
+    <div class="list-group">
+        <a asp-controller="Product" asp-action="List" class="list-group-item list-group-item-danger list-group-item-action active" aria-current="true">
+          Tüm Kategoriler
+        </a>
+        
+          @foreach(var ctg in Model.Categories)
+              {
+              <a asp-controller="Product" asp-action="List" asp-route-id="@ctg.CategoryId" class="list-group-item list-group-item-danger list-group-item-action">@ctg.Name</a>
+        }
+    </div>
